@@ -37,3 +37,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 .idea
+__pycache__/
